@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Devnet
 - 💞️ I’m looking to collaborate on Security Company
 - 📫 How to reach me yasserreed0@gmail.com
-- I have : Network+/ Security+/ eJPT/ CCNA / Devnet soon
+- I have : Network+/ Security+/ eJPT/ CCNA / Devnet
 
 <!---
 YasserREED/YasserREED is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
